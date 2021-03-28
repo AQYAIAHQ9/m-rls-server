@@ -1,1 +1,6 @@
 
+{
+   "tgms-server":"trollgames",
+   "api":"trollgames, hexa.txt",
+   "hexa":["hexa.txt, AWS HOSTED"]
+}

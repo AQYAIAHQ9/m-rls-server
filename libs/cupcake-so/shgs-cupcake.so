@@ -1,0 +1,21 @@
+//SO: Cupcake Linux/Andorid
+//Author: yTROLLGAMES
+* CKP: 0
+
+//UFG-BASE:
+//package-tgs:
+* package = json
+* (trollgames),(cupcake);
+
+   json.exports('database.json');
+   json.exports('');
+   
+@Cupcake: 32-bits
+#Version:4.0
+
+^e-lite^;^json^
+
+
+//pkg linux cupcake
+* so-lib: lib-cupcake
+* so-author: cupcake-7

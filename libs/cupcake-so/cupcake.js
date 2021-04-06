@@ -4,10 +4,15 @@
 //by: TROLLGAMESPLAY
 
 
-    if(Cupcake, Microcraft)
+    if(Cupcake, Linux)
     new database = cupcake
-     //DAta Base
+     //Data Base
      
 const TROLLGAMES = require ('cupcake.js'() =>{
     trollgames.cupcake('BR');
 })
+
+const ckp-js = new ('msg-ckp');
+//by log-libs/
+console.log('Api Iniciada');
+
